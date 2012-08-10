@@ -6,7 +6,7 @@
 var Nickname = "Rocket", FriendOne = "Jacks", GirlCount = 4, BoyCount = 6, Totally = true, MovieChoice = "Harry Potter";
 
 console.log("Hey,", Nickname);
-console.log("Everyone is going to hang out tonight at", FriendOne,"apartment tonight.");
+console.log("Everyone is going to hang out at", FriendOne,"apartment tonight.");
 console.log("We should watch a movie when we get there.");
 console.log("What do you want to watch?", MovieChoice);
 console.log("Okay,there should be", GirlCount,"girls showing up and", BoyCount,"guys there.");
